@@ -3,7 +3,7 @@ class scinterest
 {
     double p,r,t,s,c;//p=principle amount,r=rate of interest,t=time,s=simple interest,c-=compound interest
     Scanner s=new Scanner (System.in);
-    System.out.println("Enter the amount:");
+    //Enter the amount
     p=s.nextDouble();
     //Enter the No.of years:
     t=s.nextDouble();
